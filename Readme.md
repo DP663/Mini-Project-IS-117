@@ -8,7 +8,7 @@ cd stands for "change directory". After cd, the user puts in which file he wants
 
 mkdir stands for "make directory". This is used to create new folders in the unix code without having to go into the GUI and create a folder manually. Essentially, instead of taking a few click to make a folder in the GUI, we just write "mkdir (foldername)" and a folder will appear in that directory.
 
-cp stands for "copy". This command is used to copy files, groups of files, or directories. This requires you to have to directories, one where the computer is copying the directory, and the other to tell the computer where it is being copied to. 
+cp stands for "copy". This command is used to copy files, groups of files, or directories. This requires you to have to directories, one where the computer is copying the directory, and the other to tell the computer where it is being copied to. To enable, do cp (file location you want to copy) (directory where you want to copy file to)
 
 pwd stands for "print work directory". This will print the current directory that the user is in at the moment. Simply type in "pwd" into unix and the directory you are in will appear. 
 
