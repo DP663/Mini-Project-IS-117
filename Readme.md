@@ -16,3 +16,6 @@ mv stands for "move". It will move one or more files, or a whole directory to an
 rm stands for "remote". This is used to delete files from the directory. Once deleted, you can not recover these files. To use the function type in rm (file name). 
 
 history is used to show you the previous commands you made in terminal. You can scroll through the history using the up and down arrow keys. 
+
+The Home directory is the repository for the the user's personal files. After logging into the system, this is usually where the user is. To see, easily just open command prompt or terminal and you will be right there. The tilde or ~ is used to denote a user's home directoy. To operate, use ~/(file name).
+
