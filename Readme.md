@@ -3,6 +3,7 @@ IS117-003
 Taha Elbedwihy 
 
 Part 1 
+
 cd stands for "change directory". After cd, the user puts in which file he wants to go into. For example, cd Desktop will change the directory from the current one to another directory. This can only work going forward, you cannot be in a folder in the desktop and try to change the directory to the actual desktop, you will need to go back using "../"
 
 mkdir stands for "make directory". This is used to create new folders in the unix code without having to go into the GUI and create a folder manually. Essentially, instead of taking a few click to make a folder in the GUI, we just write "mkdir (foldername)" and a folder will appear in that directory.
@@ -18,4 +19,6 @@ rm stands for "remote". This is used to delete files from the directory. Once de
 history is used to show you the previous commands you made in terminal. You can scroll through the history using the up and down arrow keys. 
 
 The Home directory is the repository for the the user's personal files. After logging into the system, this is usually where the user is. To see, easily just open command prompt or terminal and you will be right there. The tilde or ~ is used to denote a user's home directoy. To operate, use ~/(file name).
+
+file paths in linux is the human readable representation of a file or folder's location on the computer. We use these to find files and add data into them or remove data out of them. 
 
