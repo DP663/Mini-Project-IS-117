@@ -22,3 +22,4 @@ The Home directory is the repository for the the user's personal files. After lo
 
 file paths in linux is the human readable representation of a file or folder's location on the computer. We use these to find files and add data into them or remove data out of them. 
 
+Using the tab key in cmd is convenient for completing file paths. If you know what the file starts with, you can type the first letter and then click tab to scroll through all the files that begin with that name. If you have no idea what's in that file, you can just keep clicking tab and it can show you the files in that directory. 
