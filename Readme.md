@@ -30,9 +30,10 @@ Using the **tab key** in cmd is convenient for completing file paths. If you kno
 
 **The up and down arrow keys** are used to circle through previous functions you typed into the cmd. This is convenient because you don't have to constantly keep typing the same command over and over again, instead you can circle throguh the commands and save time and errors. This is also a good tool to see where you went wrong when typing in a command. Simply use the arrow keys to show previously typed commands.
 
+**Part 2 
 10/23/2019
 IS117-003
-**Donark Patel**
+Donark Patel**
 
 **GitGlow** - Git-flow is a branching model and release management strategy for Git. It defines a well-formulated path for a project’s development life cycle and ensures that the development team adheres to the processes. It offers a set of extensions over Git to provide a high-level repository operation. The framework of git-flow provides visibility to the developers for planning the workspacescoped milestone and deliverable. It also helps the developers and the management to keep track of all the features, manage release flow and deal with parallel hot-fixes with its strictly typed branching conventions. You can find more about
 
@@ -59,3 +60,8 @@ IS117-003
 **Status** - The git status command displays the state of the working directory and the staging area. It lets you see which changes have been staged, which haven’t, and which files aren’t being tracked by Git. Status output does not show you any information regarding the committed project history. For this, you need to use git log.
 
 **Master Branch** - A branch in Git is simply a lightweight movable pointer to one of these commits. The default branch name in Git is master . As you start making commits, you're given a master branch that points to the last commit you made. Every time you commit, the master branch pointer moves forward automatically.
+
+**Part 3 
+10/23/2019
+IS117-003
+Donark Patel**
