@@ -55,3 +55,5 @@ IS117-003
 **Pull** - Pull requests let you tell others about changes you've pushed to a GitHub repository. Once a pull request is sent, interested parties can review the set of changes, discuss potential modifications, and even push follow-up commits if necessary.
 
 **Remote Add / Remove / Show** - The git remote command is one piece of the broader system which is responsible for syncing changes. Records registered through the git remote command are used in conjunction with the git fetch, git push, and git pull commands. These commands all have their own syncing responsibilities which can be explored on the corresponding links.
+
+**Status** - The git status command displays the state of the working directory and the staging area. It lets you see which changes have been staged, which haven’t, and which files aren’t being tracked by Git. Status output does not show you any information regarding the committed project history. For this, you need to use git log.
