@@ -46,4 +46,4 @@ IS117-003
 
 **Commit** - A commit, or "revision", is an individual change to a file (or set of files).
 
-
+**Merge** - Merge all of the commits into the base branch by clicking Merge pull request.
