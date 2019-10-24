@@ -42,5 +42,8 @@ IS117-003
 
 **Fork** - A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project. Most commonly, forks are used to either propose changes to someone else's project or to use someone else's project as a starting point for your own idea.
 
-**Branch** - A branch is essentially is a unique set of code changes with a unique name. Each repository can have one or more branches
+**Branch** - A branch is essentially is a unique set of code changes with a unique name. Each repository can have one or more branches.
+
+**Commit** - A commit, or "revision", is an individual change to a file (or set of files).
+
 
