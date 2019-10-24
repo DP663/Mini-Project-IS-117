@@ -29,3 +29,9 @@ The **Home directory** is the repository for the the user's personal files. Afte
 Using the **tab key** in cmd is convenient for completing file paths. If you know what the file starts with, you can type the first letter and then click tab to scroll through all the files that begin with that name. If you have no idea what's in that file, you can just keep clicking tab and it can show you the files in that directory. 
 
 **The up and down arrow keys** are used to circle through previous functions you typed into the cmd. This is convenient because you don't have to constantly keep typing the same command over and over again, instead you can circle throguh the commands and save time and errors. This is also a good tool to see where you went wrong when typing in a command. Simply use the arrow keys to show previously typed commands.
+
+10/23/2019
+IS117-003
+**Donark Patel**
+
+**GitGlow** - Git-flow is a branching model and release management strategy for Git. It defines a well-formulated path for a project’s development life cycle and ensures that the development team adheres to the processes. It offers a set of extensions over Git to provide a high-level repository operation. The framework of git-flow provides visibility to the developers for planning the workspacescoped milestone and deliverable. It also helps the developers and the management to keep track of all the features, manage release flow and deal with parallel hot-fixes with its strictly typed branching conventions. You can find more about
