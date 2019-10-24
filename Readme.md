@@ -53,3 +53,5 @@ IS117-003
 **Push** - Push command pushes the commits to remote repository.
 
 **Pull** - Pull requests let you tell others about changes you've pushed to a GitHub repository. Once a pull request is sent, interested parties can review the set of changes, discuss potential modifications, and even push follow-up commits if necessary.
+
+**Remote Add / Remove / Show** - The git remote command is one piece of the broader system which is responsible for syncing changes. Records registered through the git remote command are used in conjunction with the git fetch, git push, and git pull commands. These commands all have their own syncing responsibilities which can be explored on the corresponding links.
