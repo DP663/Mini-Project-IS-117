@@ -35,3 +35,5 @@ IS117-003
 **Donark Patel**
 
 **GitGlow** - Git-flow is a branching model and release management strategy for Git. It defines a well-formulated path for a project’s development life cycle and ensures that the development team adheres to the processes. It offers a set of extensions over Git to provide a high-level repository operation. The framework of git-flow provides visibility to the developers for planning the workspacescoped milestone and deliverable. It also helps the developers and the management to keep track of all the features, manage release flow and deal with parallel hot-fixes with its strictly typed branching conventions. You can find more about
+
+**Repository** - Generically refers to a central place where data is stored and maintained. A repository can be a place where multiple databases or files are located for distribution over a network, or a repository can be a location that is directly accessible to the user without having to travel across a network. In many case, Respository is a a database of information about the software, including data elements, processes, inputs, outputs and interrelationships.
