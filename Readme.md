@@ -1,9 +1,4 @@
-10/23/2019
-
-IS117-003
-Taha Elbedwihy 
-
-#**Part 1** 
+## **Part 1** 
 
 Github is an easy and clear way for developers to work together on pieces of code to form a product. With github, developers are able to:
 1. Branch off the repository to prevent messing with the original working product. 
