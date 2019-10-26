@@ -3,9 +3,15 @@
 IS117-003
 Taha Elbedwihy 
 
-Part 1 
+#**Part 1** 
 
-Github is an easy and clear way for developers to work together on pieces of code to form a product. With github, developers are able to branch off the repository and work on new code without messing with the original working product. *Git* tracks the changes of source code during the development process. This is important since all developers want to be aware of what changes occured by other developers, creating a clear communication between developers without them really having to speak to one another. *Docker* is an opensource that delivers software in containers. *Automated testing* is responsible for executing the commits, basically testing them to see if they work with the file. Essentially, it's a piece of software that tests other software to see if that software is playing nice with the other code. *Continious Integration* is the process of merging all of the branches several times a day to detect problems in the code early on so that when the code is towards it's finished product, developers don't have to waste time and look through each code to see where the problem lies. These aspects of github improbes productivity of a company since developers can constantly test if there code works with other developers code right then and there instead of waiting for the semi-finished product. Comapnies also gain a competitive advantage since developers are finding mistakes earlier rather than later, as well as on the same page everyday before the deadline. 
+Github is an easy and clear way for developers to work together on pieces of code to form a product. With github, developers are able to:
+1. Branch off the repository to prevent messing with the original working product. 
+2. Document code easier and clearly.
+3. Showcase their projects to companies
+4. Using markdown!
+5. And most importantly, track changes in code across versions.
+*Git* tracks the changes of source code during the development process. This is important since all developers want to be aware of what changes occured by other developers, creating a clear communication between developers without them really having to speak to one another. *Docker* is an opensource that delivers software in containers. *Automated testing* is responsible for executing the commits, basically testing them to see if they work with the file. Essentially, it's a piece of software that tests other software to see if that software is playing nice with the other code. *Continious Integration* is the process of merging all of the branches several times a day to detect problems in the code early on so that when the code is towards it's finished product, developers don't have to waste time and look through each code to see where the problem lies. These aspects of github improbes productivity of a company since developers can constantly test if there code works with other developers code right then and there instead of waiting for the semi-finished product. Comapnies also gain a competitive advantage since developers are finding mistakes earlier rather than later, as well as on the same page everyday before the deadline. 
  
 The **vi** aspect of unix is able to read commands. Vi is referred to as a screen editor. To use vi, simply input vi (file name) this will open up the file and you will be able to begin doing commits. 
 
