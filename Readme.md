@@ -4,13 +4,6 @@
 ![alt text](https://i.ytimg.com/vi/OEGm7LXAN_c/maxresdefault.jpg "")
 ### Mini Project IS 117-003
 
-
-
-10/23/2019
-IS117-003
-Taha Elbedwihy 
->>>>>>> ea52f02dbd2c7f413e6b0fdf466bb85fc8c40761
-
 Github is an easy and clear way for developers to work together on pieces of code to form a product. With github, developers are able to:
 1. Branch off the repository to prevent messing with the original working product. 
 2. Document code easier and clearly.
