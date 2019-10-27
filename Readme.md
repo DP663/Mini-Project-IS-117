@@ -1,9 +1,7 @@
-<<<<<<< HEAD
-## **Part 1** 
-=======
 ![alt text](https://i.ytimg.com/vi/OEGm7LXAN_c/maxresdefault.jpg "")
 ### Mini Project IS 117-003
 
+## **Part 1**
 Github is an easy and clear way for developers to work together on pieces of code to form a product. With github, developers are able to:
 1. Branch off the repository to prevent messing with the original working product. 
 2. Document code easier and clearly.
