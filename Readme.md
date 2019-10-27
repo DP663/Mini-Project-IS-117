@@ -33,12 +33,10 @@ The **Home directory** is the repository for the the user's personal files. Afte
 
 Using the **tab key** in cmd is convenient for completing file paths. If you know what the file starts with, you can type the first letter and then click tab to scroll through all the files that begin with that name. If you have no idea what's in that file, you can just keep clicking tab and it can show you the files in that directory. 
 
-<<<<<<< HEAD
 **The up and down arrow keys** are used to circle through previous functions you typed into the cmd. This is convenient because you don't have to constantly keep typing the same command over and over again, instead you can circle through the commands and save time and errors. This is also a good tool to see where you went wrong when typing in a command. Simply use the arrow keys to show previously typed commands.
 
 
-=======
-**The up and down arrow keys** are used to circle through previous functions you typed into the cmd. This is convenient because you don't have to constantly keep typing the same command over and over again, instead you can circle throguh the commands and save time and errors. This is also a good tool to see where you went wrong when typing in a command. Simply use the arrow keys to show previously typed commands.
+**The up and down arrow keys** are used to circle through previous functions you typed into the cmd. This is convenient because you don't have to constantly keep typing the same command over and over again, instead you can circle through the commands and save time and errors. This is also a good tool to see where you went wrong when typing in a command. Simply use the arrow keys to show previously typed commands.
 
 **Part 2 
 10/23/2019
@@ -75,4 +73,3 @@ Donark Patel**
 10/23/2019
 IS117-003
 Donark Patel**
->>>>>>> ea52f02dbd2c7f413e6b0fdf466bb85fc8c40761
