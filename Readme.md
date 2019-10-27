@@ -1,7 +1,7 @@
 ![alt text](https://i.ytimg.com/vi/OEGm7LXAN_c/maxresdefault.jpg "")
 ### Mini Project IS 117-003
 
-## **Part 1**
+## **Importance of Github, and Github commands**
 Github is an easy and clear way for developers to work together on pieces of code to form a product. With github, developers are able to:
 1. Branch off the repository to prevent messing with the original working product. 
 2. Document code easier and clearly.
@@ -38,36 +38,33 @@ Using the **tab key** in cmd is convenient for completing file paths. If you kno
 
 **The up and down arrow keys** are used to circle through previous functions you typed into the cmd. This is convenient because you don't have to constantly keep typing the same command over and over again, instead you can circle through the commands and save time and errors. This is also a good tool to see where you went wrong when typing in a command. Simply use the arrow keys to show previously typed commands.
 
-**Part 2 
-10/23/2019
-IS117-003
-Donark Patel**
+## **Important Github Terms** 
 
-**GitGlow** - Git-flow is a branching model and release management strategy for Git. It defines a well-formulated path for a project’s development life cycle and ensures that the development team adheres to the processes. It offers a set of extensions over Git to provide a high-level repository operation. The framework of git-flow provides visibility to the developers for planning the workspacescoped milestone and deliverable. It also helps the developers and the management to keep track of all the features, manage release flow and deal with parallel hot-fixes with its strictly typed branching conventions. You can find more about
+1. **GitGlow** - Git-flow is a branching model and release management strategy for Git. It defines a well-formulated path for a project’s development life cycle and ensures that the development team adheres to the processes. It offers a set of extensions over Git to provide a high-level repository operation. The framework of git-flow provides visibility to the developers for planning the workspacescoped milestone and deliverable. It also helps the developers and the management to keep track of all the features, manage release flow and deal with parallel hot-fixes with its strictly typed branching conventions. You can find more about
 
-**Repository** - Generically refers to a central place where data is stored and maintained. A repository can be a place where multiple databases or files are located for distribution over a network, or a repository can be a location that is directly accessible to the user without having to travel across a network. In many case, Respository is a a database of information about the software, including data elements, processes, inputs, outputs and interrelationships.
+2. **Repository** - Generically refers to a central place where data is stored and maintained. A repository can be a place where multiple databases or files are located for distribution over a network, or a repository can be a location that is directly accessible to the user without having to travel across a network. In many case, Respository is a a database of information about the software, including data elements, processes, inputs, outputs and interrelationships.
 
-**Clone** -  When you create a repository on GitHub, it exists as a remote repository. You can clone your repository to create a local copy on your computer and sync between the two locations.
+3. **Clone** -  When you create a repository on GitHub, it exists as a remote repository. You can clone your repository to create a local copy on your computer and sync between the two locations.
 
-**Fork** - A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project. Most commonly, forks are used to either propose changes to someone else's project or to use someone else's project as a starting point for your own idea.
+4. **Fork** - A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project. Most commonly, forks are used to either propose changes to someone else's project or to use someone else's project as a starting point for your own idea.
 
-**Branch** - A branch is essentially is a unique set of code changes with a unique name. Each repository can have one or more branches.
+5. **Branch** - A branch is essentially is a unique set of code changes with a unique name. Each repository can have one or more branches.
 
-**Commit** - A commit, or "revision", is an individual change to a file (or set of files).
+6. **Commit** - A commit, or "revision", is an individual change to a file (or set of files).
 
-**Merge** - Merge all of the commits into the base branch by clicking Merge pull request.
+7. **Merge** - Merge all of the commits into the base branch by clicking Merge pull request.
 
-**Checkout** - checkout is the act of switching between different versions of a target entity. The git checkout command operates upon three distinct entities: files, commits, and branches. In addition to the definition of "checkout" the phrase "checking out" is commonly used to imply the act of executing the git checkout command.
+8. **Checkout** - checkout is the act of switching between different versions of a target entity. The git checkout command operates upon three distinct entities: files, commits, and branches. In addition to the definition of "checkout" the phrase "checking out" is commonly used to imply the act of executing the git checkout command.
 
-**Push** - Push command pushes the commits to remote repository.
+9. **Push** - Push command pushes the commits to remote repository.
 
-**Pull** - Pull requests let you tell others about changes you've pushed to a GitHub repository. Once a pull request is sent, interested parties can review the set of changes, discuss potential modifications, and even push follow-up commits if necessary.
+10. **Pull** - Pull requests let you tell others about changes you've pushed to a GitHub repository. Once a pull request is sent, interested parties can review the set of changes, discuss potential modifications, and even push follow-up commits if necessary.
 
-**Remote Add / Remove / Show** - The git remote command is one piece of the broader system which is responsible for syncing changes. Records registered through the git remote command are used in conjunction with the git fetch, git push, and git pull commands. These commands all have their own syncing responsibilities which can be explored on the corresponding links.
+11. **Remote Add / Remove / Show** - The git remote command is one piece of the broader system which is responsible for syncing changes. Records registered through the git remote command are used in conjunction with the git fetch, git push, and git pull commands. These commands all have their own syncing responsibilities which can be explored on the corresponding links.
 
-**Status** - The git status command displays the state of the working directory and the staging area. It lets you see which changes have been staged, which haven’t, and which files aren’t being tracked by Git. Status output does not show you any information regarding the committed project history. For this, you need to use git log.
+12. **Status** - The git status command displays the state of the working directory and the staging area. It lets you see which changes have been staged, which haven’t, and which files aren’t being tracked by Git. Status output does not show you any information regarding the committed project history. For this, you need to use git log.
 
-**Master Branch** - A branch in Git is simply a lightweight movable pointer to one of these commits. The default branch name in Git is master . As you start making commits, you're given a master branch that points to the last commit you made. Every time you commit, the master branch pointer moves forward automatically.
+13. **Master Branch** - A branch in Git is simply a lightweight movable pointer to one of these commits. The default branch name in Git is master . As you start making commits, you're given a master branch that points to the last commit you made. Every time you commit, the master branch pointer moves forward automatically.
 
 **Part 3 
 10/23/2019
