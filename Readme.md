@@ -66,7 +66,32 @@ Using the **tab key** in cmd is convenient for completing file paths. If you kno
 
 13. **Master Branch** - A branch in Git is simply a lightweight movable pointer to one of these commits. The default branch name in Git is master . As you start making commits, you're given a master branch that points to the last commit you made. Every time you commit, the master branch pointer moves forward automatically.
 
-**Part 3 
-10/23/2019
+**Part 3**
+
+1.Forking vs Cloning
+The clone operation is built into git. The forked repository is mostly static. It exists in order to allow you to publish work for code review purposes. You don't do active development in your forked repository. The cloned repository is your active repo. It is where you do all your work. But other people generally don't have access to your personal cloned repo, because it's on your laptop. So that's why you have the forked repo, so you can push changes to it for others to see and review
+
+2. Pull Request
+
+*To create a pull request, you must have changes committed to the your new branch.
+*Go to the repository page on github. And click on "Pull Request" button in the repo header.
+*Pick the branch you wish to have merged using the "Head branch" dropdown. You should leave the rest of the fields as is, unless you are working from a remote branch. In that case, just make sure that the base repo and base branch are set correctly.
+*Enter a title and description for your pull request. Remember you can use Github
+*Finally, click on the green "Send pull request" button to finish creating the pull request.
+
+3.  Adding a collaborator to a Github Repo.
+*Ask for the username of the person you're inviting as a collaborator. 
+*On GitHub, navigate to the main page of the repository.
+*Under your repository name, click Settings.
+*In the left sidebar, click Collaborators.
+*Under "Collaborators", start typing the collaborator's username.
+*Select the collaborator's username from the drop-down menu.
+*Click Add collaborator.
+*The user will receive an email inviting them to the repository. Once they accept your invitation, they will have collaborator access to your repository.
+
+
+
+**10/23/2019
 IS117-003
-Donark Patel**
+Mina Morcos**
+
